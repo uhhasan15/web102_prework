@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features:<br>
 ![2025-01-2622-27-41-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fe146c21-247f-4318-a76a-8f15411af620)
 
 <!-- Replace this with whatever GIF tool you used! -->
