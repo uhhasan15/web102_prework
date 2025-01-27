@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/ZqLW6Rc.gif' />
+![](websitechowcase/name.gif)
 https://imgur.com/a/rMj84rS
 
 <!-- Replace this with whatever GIF tool you used! -->
